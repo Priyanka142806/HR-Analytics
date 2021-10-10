@@ -11,7 +11,7 @@
 
 ## ABOUT
 
-This is a supervised machine learning model build to help the company XYZ  understand what changes they should make to their workplace, in order to get most of their employees to stay thus reducing the attrition rates by analysing the ![datasets](https://github.com/Priyanka142806/HR-Analytics/tree/main/Datasets)
+This is a supervised machine learning model build to help the company XYZ  understand what changes they should make to their workplace, in order to get most of their employees to stay thus reducing the attrition rates by analysing the [datasets](https://github.com/Priyanka142806/HR-Analytics/tree/main/Datasets)
 
 #### Problem Statement
 
@@ -38,7 +38,7 @@ Tech stack includes:
 
 
 ## Documentation
-Import the required libraries and the ![datasets](https://github.com/Priyanka142806/HR-Analytics/tree/main/Datasets) and start working on the [issues](https://github.com/Priyanka142806/HR-Analytics/issues)
+Import the required libraries and the [datasets](https://github.com/Priyanka142806/HR-Analytics/tree/main/Datasets) and start working on the [issues](https://github.com/Priyanka142806/HR-Analytics/issues)
 
 ## How to contribute
 Follow these 3 step process for contributions:
