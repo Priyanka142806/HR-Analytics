@@ -37,8 +37,8 @@ Tech stack includes:
 <img alt="HTML5" src="https://img.shields.io/badge/python-grey?&style=for-the-badge&logo=python&logoColor=blue" >![numpy](https://img.shields.io/badge/numpy-black?&style=for-the-badge&logo=numpy&logoColor=yellow) ![pandas](https://img.shields.io/badge/pandas-white?&style=for-the-badge&logo=pandas&logoColor=black) ![matplotlib](https://img.shields.io/badge/matplotlib-blue?&style=for-the-badge&logo=circle&logoColor=black) ![seaborn](https://img.shields.io/badge/seaborn-orange?&style=for-the-badge&logo=appveyor&logoColor=blue)
 
 
-## Workflow
-
+## Documentation
+Import the required libraries and the ![datasets](https://github.com/Priyanka142806/HR-Analytics/tree/main/Datasets) and start working on the [issues](https://github.com/Priyanka142806/HR-Analytics/issues)
 
 ## How to contribute
 Follow these 3 step process for contributions:
